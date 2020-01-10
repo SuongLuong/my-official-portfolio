@@ -41,7 +41,7 @@ export const Projects = () => {
   );
   return (
     <Wrapper as={Container} id="projects">
-      <h2>Projects</h2>
+      <h1>Projects</h1>
       <Grid>
         {edges.map(({ node }) => (
           <Item
@@ -69,6 +69,15 @@ export const Projects = () => {
             </Card>
           </Item>
         ))}
+        <a
+          rel="noopener noreferrer"
+          href="https://github.com/SuongLuong"
+          target="_blank"
+        >
+          <span style={{ marginLeft: "200px", color: "#212121" }}>
+            See more >>>>
+          </span>
+        </a>
       </Grid>
     </Wrapper>
   );
