@@ -1,24 +1,22 @@
 module.exports = {
   defaultTitle: "Kingsley",
   logo: "https://portfolio.smakosh.com/favicon/favicon-512.png",
-  author: "John Doe",
-  url: "https://portfolio.smakosh.com",
-  legalName: "John Doe",
-  defaultDescription: "I’m John and I’m a Backend & Devops engineer!",
+  author: "Kingsley Luong",
+  url: "https://kingsleyluong.ca",
+  legalName: "Kingsley Luong",
+  defaultDescription: "I’m Kingsley and I’m a Front-end developer!",
   socialLinks: {
-    twitter: "http://www.twitter.com/smakosh",
+    twitter: "https://twitter.com/KingsleyLuong",
     github: "https://github.com/SuongLuong",
-    linkedin: "https://www.linkedin.com/in/ismail-ghallou-630149122/",
-    instagram: "https://instagram.com/smakosh19",
-    youtube: "https://www.youtube.com/user/smakoshthegamer",
-    google: "https://plus.google.com/u/0/+IsmailSmakoshGhallou"
+    linkedin: "https://www.linkedin.com/in/suongluong/",
+    instagram: "https://instagram.com/kingsleyluong"
   },
   googleAnalyticsID: "UA-88875900-4",
   themeColor: "#6b63ff",
   backgroundColor: "#6b63ff",
   social: {
-    facebook: "appId",
-    twitter: "@smakosh"
+    facebook: "Kingsley Luong",
+    twitter: "@kingsleyluong"
   },
   address: {
     city: "City",
@@ -30,6 +28,6 @@ module.exports = {
     email: "email",
     phone: "phone number"
   },
-  foundingDate: "2018",
-  recaptcha_key: "6Lcs6lQUAAAAAEwhNH2IsobIe2csdda4TU3efpMN"
+  foundingDate: "2019",
+  recaptcha_key: "6LegOc4UAAAAADV820zlRDYCynfQzbo0Q9YWCl3-"
 };
